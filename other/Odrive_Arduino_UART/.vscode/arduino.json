@@ -1,0 +1,7 @@
+{
+    "port": "/dev/cu.usbmodem14101",
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "programmer": "ArduinoISP",
+    "sketch": "1_Odrive/Arduino_connect_speed/Arduino_connect_speed.ino"
+}

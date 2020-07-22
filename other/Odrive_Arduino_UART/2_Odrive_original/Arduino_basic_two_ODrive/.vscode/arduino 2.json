@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "port": "/dev/cu.usbmodem335C315E35361"
+}
