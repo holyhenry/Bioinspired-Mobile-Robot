@@ -6,7 +6,7 @@ A full mobile robot design project. **ODrive configurations, Robot kinematics, T
 
 [For demo video](https://www.instagram.com/henrywiththerobot/?igshid=1cz2u3hd8v3pz)
 
-[ODrive motor controller documentation](https://docs.odriverobotics.com/)
+[ODrive documentation](https://docs.odriverobotics.com/)
 
 ![alt text](https://github.com/holyhenry/Bioinspired-Mobile-Robot/blob/master/IMG_8668.jpeg "IROS demo pic")
 
