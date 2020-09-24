@@ -1,3 +1,7 @@
 ## File directory
 
-**main**
+**main.ipynb**
+
+**odrive_function.ipynb**
+
+**kinematics_function.ipynb**
