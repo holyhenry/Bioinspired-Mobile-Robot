@@ -6,3 +6,6 @@ A full mobile robot design project. ODrive configurations, Robot kinematics, Tra
 
 ## Other
 
+Miscellaneous communication tests on ODrive. 
+Microcontrollers like Arduino, Teensy, and RaspberryPi are included.
+Communication protocols like UART, I2C, and CAN bus are included.
