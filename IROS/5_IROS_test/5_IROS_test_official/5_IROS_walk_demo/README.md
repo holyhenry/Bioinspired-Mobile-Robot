@@ -9,4 +9,4 @@
 
 First author and maintenace: Henry Chang 
 
-contact: h1chang@ucsd.edu
+Contact: h1chang@ucsd.edu
