@@ -9,7 +9,7 @@ Related publication at Bioinspiration & Biomimetics: [Anisotropic compliance of 
 
 Demo video: [here](https://drive.google.com/file/d/1brcKvyuhxSXbip7MoVo0s_F8ZG0VlAbW/view?usp=share_link)
 
-Documentation: [ODrive](https://docs.odriverobotics.com/)
+Hardware documentation: [ODrive](https://docs.odriverobotics.com/)
 
 ![alt text](https://github.com/holyhenry/Bioinspired-Mobile-Robot/blob/master/IMG_8668.jpeg "IROS demo pic")
 
