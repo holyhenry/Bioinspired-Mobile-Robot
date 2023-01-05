@@ -1,12 +1,15 @@
 # Bioinspired-Mobile-Robot
 
-## IROS project
+## Proposed project
 
 A full mobile robot design project. **ODrive configurations, Robot kinematics, Trajectory generator, PID controllers, and Experiment results** are included.
 
-[For demo video](https://www.instagram.com/henrywiththerobot/?igshid=1cz2u3hd8v3pz)
+Related publication at Bioinspiration & Biomimetics: [Anisotropic compliance of robot legs improves recovery from swing-phase collisions
+](https://iopscience.iop.org/article/10.1088/1748-3190/ac0b99/meta)
 
-[ODrive documentation](https://docs.odriverobotics.com/)
+Demo video: [here](https://drive.google.com/file/d/1brcKvyuhxSXbip7MoVo0s_F8ZG0VlAbW/view?usp=share_link)
+
+Documentation: [ODrive](https://docs.odriverobotics.com/)
 
 ![alt text](https://github.com/holyhenry/Bioinspired-Mobile-Robot/blob/master/IMG_8668.jpeg "IROS demo pic")
 
