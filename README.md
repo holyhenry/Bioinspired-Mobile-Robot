@@ -11,7 +11,7 @@ Demo video: [here](https://drive.google.com/file/d/1brcKvyuhxSXbip7MoVo0s_F8ZG0V
 
 Hardware documentation: [ODrive](https://docs.odriverobotics.com/)
 
-![alt text](https://github.com/holyhenry/Bioinspired-Mobile-Robot/blob/master/IMG_8668.jpeg "IROS demo pic")
+![alt text](https://github.com/holyhenry/Bioinspired-Mobile-Robot/blob/master/robot.jpeg "IROS demo pic")
 
 
 ## Other
