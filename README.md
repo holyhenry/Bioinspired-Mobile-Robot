@@ -1,11 +1,10 @@
-# Bioinspired-Mobile-Robot
+# Anisotropic compliance of robot legs improves recovery from swing-phase collisions
 
 ## Proposed project
 
 A full mobile robot design project. **ODrive configurations, Robot kinematics, Trajectory generator, PID controllers, and Experiment results** are included.
 
-Related publication at Bioinspiration & Biomimetics: [Anisotropic compliance of robot legs improves recovery from swing-phase collisions
-](https://iopscience.iop.org/article/10.1088/1748-3190/ac0b99/meta)
+Related publication at Bioinspiration & Biomimetics: [here](https://iopscience.iop.org/article/10.1088/1748-3190/ac0b99/meta)
 
 Demo video: [here](https://drive.google.com/file/d/1brcKvyuhxSXbip7MoVo0s_F8ZG0VlAbW/view?usp=share_link)
 
